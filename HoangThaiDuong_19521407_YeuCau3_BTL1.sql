@@ -1,11 +1,11 @@
 ---------------------------------Chi nhanh HCM-------------------------------------------
--------------Xem mu?c cô l?p------------------
+-------------Xem muc co lap------------------
  declare 
            trans_id Varchar2(100);
         begin
            trans_id := dbms_transaction.local_transaction_id( TRUE );
         end;
-------------Xem m?c cô l?p hi?n t?i--------------
+------------Xem muc co lap hien tai--------------
 SELECT s.sid, s.serial#,
        CASE BITAND(t.flag, POWER(2, 28))
           WHEN 0 THEN 'READ COMMITTED'
@@ -13,7 +13,7 @@ SELECT s.sid, s.serial#,
        END AS isolation_level
     FROM v$transaction t 
     JOIN v$session s ON t.addr = s.taddr AND s.sid = sys_context('USERENV', 'SID');
------------Set m?cc cô l?p----------------------
+-----------Set muc co lap----------------------
 ALTER SESSION SET ISOLATION_LEVEL= SERIALIZABLE;
 ALTER SESSION SET ISOLATION_LEVEL= READ COMMITTED;
 ------------non-repeatable----------------------
@@ -61,20 +61,20 @@ where MADG = 'DG006';
 
 
 ---------------------------------Chi nhanh HaNoi----------------------------------------
--------------Xem mu?c cô l?p------------------
+-------------Xem muc co lap------------------
  declare 
            trans_id Varchar2(100);
         begin
            trans_id := dbms_transaction.local_transaction_id( TRUE );
         end;
 --------------------------------------------------------------------------------
--------------Xem mu?c cô l?p------------------
+-------------Xem muc co lap------------------
  declare 
            trans_id Varchar2(100);
         begin
            trans_id := dbms_transaction.local_transaction_id( TRUE );
         end;
-------------Xem m?c cô l?p hi?n t?i--------------
+------------Xem muc co lap hien tai--------------
 SELECT s.sid, s.serial#,
        CASE BITAND(t.flag, POWER(2, 28))
           WHEN 0 THEN 'READ COMMITTED'
@@ -82,7 +82,7 @@ SELECT s.sid, s.serial#,
        END AS isolation_level
     FROM v$transaction t 
     JOIN v$session s ON t.addr = s.taddr AND s.sid = sys_context('USERENV', 'SID');
------------Set m?cc cô l?p----------------------
+-----------Set muc co lap----------------------
 ALTER SESSION SET ISOLATION_LEVEL= SERIALIZABLE;
 ALTER SESSION SET ISOLATION_LEVEL= READ COMMITTED;
 
