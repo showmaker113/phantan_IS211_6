@@ -1,0 +1,616 @@
+﻿[
+    {
+        "ISBN": "11",
+        "TENSACH": "Rừng Nauy",
+        "THELOAI": "Tiểu thuyết",
+        "TACGIA": "Haruki Murakami",
+        "NPH": "Nhã Nam",
+        "NGXB": "15/07/2021",
+        "KICHTHUOC": "13 x 20.5 cm",
+        "LOAIBIA": "Bìa mềm",
+        "SOTRANG": "556",
+        "NXB": "Nhà Xuất Bản Hội Nhà Văn"
+    },
+    {
+        "ISBN": "12",
+        "TENSACH": "Lâu Đài Bay Của Pháp Sư Howl",
+        "THELOAI": "Tiểu thuyết",
+        "TACGIA": "Diana Wynne Jones",
+        "NPH": "Nhã Nam",
+        "NGXB": "06/03/2020",
+        "KICHTHUOC": "13 x 20.5 cm",
+        "LOAIBIA": "Bìa mềm",
+        "SOTRANG": "400",
+        "NXB": "Nhà Xuất Bản Hội Nhà Văn"
+    },
+    {
+        "ISBN": "13",
+        "TENSACH": "Harry Potter Và Bảo Bối Tử Thần",
+        "THELOAI": "Tiểu thuyết",
+        "TACGIA": "J.K. Rowling",
+        "NPH": "NXB Trẻ",
+        "NGXB": "1/07/2017",
+        "KICHTHUOC": "14 x 20 cm",
+        "LOAIBIA": "Bìa cứng",
+        "SOTRANG": "846",
+        "NXB": "Nhà Xuất Bản Hội Nhà Văn"
+    },
+    {
+        "ISBN": "14",
+        "TENSACH": "Chúa Tể Những Chiếc Nhẫn",
+        "THELOAI": "Tiểu thuyết",
+        "TACGIA": " J.RR.Tolkien",
+        "NPH": "Nhã Nam",
+        "NGXB": "15/07/2021",
+        "KICHTHUOC": "15 x 24 cm",
+        "LOAIBIA": "Bìa cứng",
+        "SOTRANG": "544",
+        "NXB": "Nhà Xuất Bản Hội Nhà Văn"
+    },
+    {
+        "ISBN": "15",
+        "TENSACH": "Trò Chơi Vương Quyền",
+        "THELOAI": "Tiểu thuyết",
+        "TACGIA": "George R. R. Martin",
+        "NPH": "Alphabooks",
+        "NGXB": "15/10/2020",
+        "KICHTHUOC": "14 x 20.5 cm",
+        "LOAIBIA": "Bìa cứng",
+        "SOTRANG": "716",
+        "NXB": "Nhà Xuất Bản Văn học"
+    },
+    {
+        "ISBN": "16",
+        "TENSACH": "The Book Thief",
+        "THELOAI": "English Book",
+        "TACGIA": "Markus Zusak",
+        "NPH": "Penguin Random House",
+        "NGXB": "01/01/2021",
+        "KICHTHUOC": "12.7 x 19.8 cm",
+        "LOAIBIA": "Bìa cứng",
+        "SOTRANG": "416",
+        "NXB": "Penguin Random House"
+    },
+    {
+        "ISBN": "17",
+        "TENSACH": "The Godfather",
+        "THELOAI": "English Book",
+        "TACGIA": " Mario Puzo",
+        "NPH": "Penguin Random House",
+        "NGXB": "15/05/2020",
+        "KICHTHUOC": "12.7 x 19.8 cm",
+        "LOAIBIA": "Bìa cứng",
+        "SOTRANG": "595",
+        "NXB": "Penguin Random House"
+    },
+    {
+        "ISBN": "18",
+        "TENSACH": "The Shining",
+        "THELOAI": "English Book",
+        "TACGIA": "English Book",
+        "NPH": "Penguin Random House",
+        "NGXB": "5/09/2021",
+        "KICHTHUOC": "10.4 x 17.3 cm",
+        "LOAIBIA": "Bìa mềm",
+        "SOTRANG": "659",
+        "NXB": "Penguin Random House"
+    },
+    {
+        "ISBN": "19",
+        "TENSACH": "To Kill A Mockingbird",
+        "THELOAI": "English Book",
+        "TACGIA": "Harper Lee",
+        "NPH": "Penguin Random House",
+        "NGXB": "07/05/2020",
+        "KICHTHUOC": "14 x 20.5 cm",
+        "LOAIBIA": "Bìa mềm",
+        "SOTRANG": "716",
+        "NXB": "Penguin Random House"
+    },
+    {
+        "ISBN": "20",
+        "TENSACH": "The Fault In Our Stars",
+        "THELOAI": "English Book",
+        "TACGIA": "John Green",
+        "NPH": "Penguin Random House",
+        "NGXB": "06/03/2018",
+        "KICHTHUOC": "12.9 x 19.8 cm",
+        "LOAIBIA": "Bìa mềm",
+        "SOTRANG": "364",
+        "NXB": "Penguin Random House"
+    },
+    {
+        "ISBN": "11",
+        "TINHTRANG": "Available",
+        "NGGIAHAN": "15"
+    },
+    {
+        "ISBN": "12",
+        "TINHTRANG": "Available",
+        "NGGIAHAN": "15"
+    },
+    {
+        "ISBN": "13",
+        "TINHTRANG": "Available",
+        "NGGIAHAN": "15"
+    },
+    {
+        "ISBN": "14",
+        "TINHTRANG": "Available",
+        "NGGIAHAN": "15"
+    },
+    {
+        "ISBN": "15",
+        "TINHTRANG": "Available",
+        "NGGIAHAN": "15"
+    },
+    {
+        "ISBN": "16",
+        "TINHTRANG": "Available",
+        "NGGIAHAN": "10"
+    },
+    {
+        "ISBN": "17",
+        "TINHTRANG": "Available",
+        "NGGIAHAN": "10"
+    },
+    {
+        "ISBN": "18",
+        "TINHTRANG": "Available",
+        "NGGIAHAN": "10"
+    },
+    {
+        "ISBN": "19",
+        "TINHTRANG": "Available",
+        "NGGIAHAN": "10"
+    },
+    {
+        "ISBN": "20",
+        "TINHTRANG": "Available",
+        "NGGIAHAN": "10"
+    },
+    {
+        "MADG": "DG001",
+        "TENDG": "LE QUANG KHAI",
+        "DIACHI": "TP.HCM",
+        "SDT": "0935959875",
+        "EMAIL": "19521656@gm.uit.edu.vn",
+        "NGSINH": "18/01/2001",
+        "GIOITINH": "NAM"
+    },
+    {
+        "MADG": "DG002",
+        "TENDG": "LE THANH HIEU",
+        "DIACHI": "TP.HCM",
+        "SDT": "0582830360",
+        "EMAIL": "19521498@gm.uit.edu.vn",
+        "NGSINH": "25/06/2001",
+        "GIOITINH": "NAM"
+    },
+    {
+        "MADG": "DG005",
+        "TENDG": "LE VAN ANH DUC",
+        "DIACHI": "TP.HCM",
+        "SDT": "0935959875",
+        "EMAIL": "19521374@gm.uit.edu.vn",
+        "NGSINH": "25/08/2001",
+        "GIOITINH": "NAM"
+    },
+    {
+        "MADG": "DG006",
+        "TENDG": "HO THI MY VAN",
+        "DIACHI": "TP.HCM",
+        "SDT": "01234569",
+        "EMAIL": "htmv123@gm.uit.edu.vn",
+        "NGSINH": "28/11/2003",
+        "GIOITINH": "NU"
+    },
+    {
+        "MADG": "DG009",
+        "TENDG": "NGUYEN DANG DO",
+        "DIACHI": "TP.HCM",
+        "SDT": "963258741",
+        "EMAIL": "NDD123@gm.uit.edu.vn",
+        "NGSINH": "22/11/2001",
+        "GIOITINH": "NAM"
+    },
+    {
+        "MADG": "DG010",
+        "TENDG": "NGUYEN THI NHAN",
+        "DIACHI": "TP.HCM",
+        "SDT": "123654789",
+        "EMAIL": "NTN123@gm.uit.edu.vn",
+        "NGSINH": "23/01/2001",
+        "GIOITINH": "NU"
+    },
+    {
+        "MADG": "DG013",
+        "TENDG": "PHAM BA VUONG",
+        "DIACHI": "TP.HCM",
+        "SDT": "896541237",
+        "EMAIL": "PBV123@gm.uit.edu.vn",
+        "NGSINH": "30/01/2001",
+        "GIOITINH": "NAM"
+    },
+    {
+        "MADG": "DG014",
+        "TENDG": "NGUYEN ANH QUOC",
+        "DIACHI": "TP.HCM",
+        "SDT": "5236998741",
+        "EMAIL": "NAQ123@gm.uit.edu.vn",
+        "NGSINH": "20/11/2001",
+        "GIOITINH": "NAM"
+    },
+    {
+        "MADG": "DG017",
+        "TENDG": "NGUYEN HOANG YEN LY",
+        "DIACHI": "TP.HCM",
+        "SDT": "56321457",
+        "EMAIL": "NHYL123@gm.uit.edu.vn",
+        "NGSINH": "26/03/2001",
+        "GIOITINH": "NU"
+    },
+    {
+        "MADG": "DG018",
+        "TENDG": "TU MAU THANH NGAN",
+        "DIACHI": "TP.HCM",
+        "SDT": "26959887",
+        "EMAIL": "TMTN123@gm.uit.edu.vn",
+        "NGSINH": "02/01/2001",
+        "GIOITINH": "NU"
+    },
+    {
+        "TENTK": "LQK123",
+        "MADG": "DG001",
+        "MATKHAU": "LQK123",
+        "CONGNO": "0",
+        "LOAITK": "VIP"
+    },
+    {
+        "TENTK": "LTH123",
+        "MADG": "DG002",
+        "MATKHAU": "LTH123",
+        "CONGNO": "0",
+        "LOAITK": "THUONG"
+    },
+    {
+        "TENTK": "LVAD123",
+        "MADG": "DG005",
+        "MATKHAU": "LVAD123",
+        "CONGNO": "0",
+        "LOAITK": "THUONG"
+    },
+    {
+        "TENTK": "HTMV123",
+        "MADG": "DG006",
+        "MATKHAU": "HTMV123",
+        "CONGNO": "0",
+        "LOAITK": "THUONG"
+    },
+    {
+        "TENTK": "NDD123",
+        "MADG": "DG009",
+        "MATKHAU": "NDD123",
+        "CONGNO": "0",
+        "LOAITK": "VIP"
+    },
+    {
+        "TENTK": "NTN123",
+        "MADG": "DG010",
+        "MATKHAU": "NTN123",
+        "CONGNO": "0",
+        "LOAITK": "VIP"
+    },
+    {
+        "TENTK": "PBV123",
+        "MADG": "DG013",
+        "MATKHAU": "PBV123",
+        "CONGNO": "0",
+        "LOAITK": "VIP"
+    },
+    {
+        "TENTK": "NAQ123",
+        "MADG": "DG014",
+        "MATKHAU": "NAQ123",
+        "CONGNO": "0",
+        "LOAITK": "VIP"
+    },
+    {
+        "TENTK": "NHYL123",
+        "MADG": "DG017",
+        "MATKHAU": "NHYL123",
+        "CONGNO": "0",
+        "LOAITK": "VIP"
+    },
+    {
+        "TENTK": "TMTN123",
+        "MADG": "DG018",
+        "MATKHAU": "TMTN123",
+        "CONGNO": "0",
+        "LOAITK": "THUONG"
+    },
+    {
+        "MATT": "19521656",
+        "TENTT": "LE QUANG KHAI",
+        "GIOITINH": "NAM",
+        "MAKHAU": "LQK123"
+    },
+    {
+        "MATT": "19521498",
+        "TENTT": "LE THANH HIEU",
+        "GIOITINH": "NAM",
+        "MAKHAU": "LTH123"
+    },
+    {
+        "MATT": "19521443",
+        "TENTT": "BANH HOANG GIANG",
+        "GIOITINH": "NAM",
+        "MAKHAU": "BHG123"
+    },
+    {
+        "MATT": "19521407",
+        "TENTT": "HOANG THAI DUONG",
+        "GIOITINH": "NAM",
+        "MAKHAU": "HTD123"
+    },
+    {
+        "MAMS": "MS001",
+        "MATT": "19521656",
+        "TENTK": "LQK123",
+        "ISBN": "11",
+        "NGMUON": "25/11/2021",
+        "NGHETHAN": "15/12/2021"
+    },
+    {
+        "MAMS": "MS006",
+        "MATT": "19521656",
+        "TENTK": "LQK123",
+        "ISBN": "12",
+        "NGMUON": "25/11/2021",
+        "NGHETHAN": "15/12/2021"
+    },
+    {
+        "MAMS": "MS012",
+        "MATT": "19521656",
+        "TENTK": "LQK123",
+        "ISBN": "13",
+        "NGMUON": "25/11/2021",
+        "NGHETHAN": "15/12/2021"
+    },
+    {
+        "MAMS": "MS013",
+        "MATT": "19521656",
+        "TENTK": "LQK123",
+        "ISBN": "14",
+        "NGMUON": "25/11/2021",
+        "NGHETHAN": "15/12/2021"
+    },
+    {
+        "MAMS": "MS014",
+        "MATT": "19521656",
+        "TENTK": "LQK123",
+        "ISBN": "15",
+        "NGMUON": "25/11/2021",
+        "NGHETHAN": "15/12/2021"
+    },
+    {
+        "MAMS": "MS015",
+        "MATT": "19521656",
+        "TENTK": "LQK123",
+        "ISBN": "16",
+        "NGMUON": "25/11/2021",
+        "NGHETHAN": "15/12/2021"
+    },
+    {
+        "MAMS": "MS016",
+        "MATT": "19521656",
+        "TENTK": "LQK123",
+        "ISBN": "17",
+        "NGMUON": "25/11/2021",
+        "NGHETHAN": "15/12/2021"
+    },
+    {
+        "MAMS": "MS017",
+        "MATT": "19521656",
+        "TENTK": "LQK123",
+        "ISBN": "18",
+        "NGMUON": "25/11/2021",
+        "NGHETHAN": "15/12/2021"
+    },
+    {
+        "MAMS": "MS018",
+        "MATT": "19521656",
+        "TENTK": "LQK123",
+        "ISBN": "19",
+        "NGMUON": "25/11/2021",
+        "NGHETHAN": "15/12/2021"
+    },
+    {
+        "MAMS": "MS003",
+        "MATT": "19521443",
+        "TENTK": "LTH123",
+        "ISBN": "11",
+        "NGMUON": "28/11/2021",
+        "NGHETHAN": "18/12/2021"
+    },
+    {
+        "MAMS": "MS034",
+        "MATT": "19521656",
+        "TENTK": "LTH123",
+        "ISBN": "12",
+        "NGMUON": "25/11/2021",
+        "NGHETHAN": "15/12/2021"
+    },
+    {
+        "MAMS": "MS035",
+        "MATT": "19521656",
+        "TENTK": "LTH123",
+        "ISBN": "13",
+        "NGMUON": "25/11/2021",
+        "NGHETHAN": "15/12/2021"
+    },
+    {
+        "MAMS": "MS036",
+        "MATT": "19521656",
+        "TENTK": "LTH123",
+        "ISBN": "14",
+        "NGMUON": "25/11/2021",
+        "NGHETHAN": "15/12/2021"
+    },
+    {
+        "MAMS": "MS037",
+        "MATT": "19521656",
+        "TENTK": "LTH123",
+        "ISBN": "15",
+        "NGMUON": "25/11/2021",
+        "NGHETHAN": "15/12/2021"
+    },
+    {
+        "MAMS": "MS038",
+        "MATT": "19521656",
+        "TENTK": "LTH123",
+        "ISBN": "16",
+        "NGMUON": "25/11/2021",
+        "NGHETHAN": "15/12/2021"
+    },
+    {
+        "MAMS": "MS039",
+        "MATT": "19521656",
+        "TENTK": "LTH123",
+        "ISBN": "17",
+        "NGMUON": "25/11/2021",
+        "NGHETHAN": "15/12/2021"
+    },
+    {
+        "MAMS": "MS040",
+        "MATT": "19521656",
+        "TENTK": "LTH123",
+        "ISBN": "18",
+        "NGMUON": "25/11/2021",
+        "NGHETHAN": "15/12/2021"
+    },
+    {
+        "MAMS": "MS041",
+        "MATT": "19521656",
+        "TENTK": "LTH123",
+        "ISBN": "19",
+        "NGMUON": "25/11/2021",
+        "NGHETHAN": "15/12/2021"
+    },
+    {
+        "MAMS": "MS042",
+        "MATT": "19521656",
+        "TENTK": "LTH123",
+        "ISBN": "20",
+        "NGMUON": "25/11/2021",
+        "NGHETHAN": "15/12/2021"
+    },
+    {
+        "MAMS": "MS043",
+        "MATT": "19521656",
+        "TENTK": "NTN123",
+        "ISBN": "16",
+        "NGMUON": "25/11/2021",
+        "NGHETHAN": "15/12/2021"
+    },
+    {
+        "MAMS": "MS044",
+        "MATT": "19521656",
+        "TENTK": "NTN123",
+        "ISBN": "17",
+        "NGMUON": "25/11/2021",
+        "NGHETHAN": "15/12/2021"
+    },
+    {
+        "MAMS": "MS045",
+        "MATT": "19521656",
+        "TENTK": "NTN123",
+        "ISBN": "18",
+        "NGMUON": "25/11/2021",
+        "NGHETHAN": "15/12/2021"
+    },
+    {
+        "MAMS": "MS046",
+        "MATT": "19521656",
+        "TENTK": "NTN123",
+        "ISBN": "19",
+        "NGMUON": "25/11/2021",
+        "NGHETHAN": "15/12/2021"
+    },
+    {
+        "MAMS": "MS047",
+        "MATT": "19521656",
+        "TENTK": "NTN123",
+        "ISBN": "20",
+        "NGMUON": "25/11/2021",
+        "NGHETHAN": "15/12/2021"
+    },
+    {
+        "MAMS": "MS011",
+        "MATT": "19521443",
+        "TENTK": "NTN123",
+        "ISBN": "11",
+        "NGMUON": "28/11/2021",
+        "NGHETHAN": "18/12/2021"
+    },
+    {
+        "MAMS": "MS007",
+        "MATT": "19521498",
+        "TENTK": "NTN123",
+        "ISBN": "12",
+        "NGMUON": "25/11/2021",
+        "NGHETHAN": "05/12/2021"
+    },
+    {
+        "MAMS": "MS009",
+        "MATT": "19521443",
+        "TENTK": "HTMV123",
+        "ISBN": "11",
+        "NGMUON": "29/11/2021",
+        "NGHETHAN": "14/12/2021"
+    },
+    {
+        "MAMS": "MS010",
+        "MATT": "19521656",
+        "TENTK": "LVAD123",
+        "ISBN": "12",
+        "NGMUON": "27/11/2021",
+        "NGHETHAN": "12/12/2021"
+    },
+    {
+        "MATS": "TS001",
+        "MAMS": "MS001",
+        "NGTRA": "10/12/2021",
+        "CHIPHI": "0"
+    },
+    {
+        "MATS": "TS003",
+        "MAMS": "MS003",
+        "NGTRA": "30/12/2021",
+        "CHIPHI": "0"
+    },
+    {
+        "MATS": "TS006",
+        "MAMS": "MS006",
+        "NGTRA": "3/12/2021",
+        "CHIPHI": "0"
+    },
+    {
+        "MATS": "TS007",
+        "MAMS": "MS007",
+        "NGTRA": "1/12/2021",
+        "CHIPHI": "0"
+    },
+    {
+        "MATS": "TS009",
+        "MAMS": "MS009",
+        "NGTRA": "20/12/2021",
+        "CHIPHI": "50"
+    },
+    {
+        "MATS": "TS010",
+        "MAMS": "MS010",
+        "NGTRA": "14/12/2021",
+        "CHIPHI": "50"
+    }
+]
